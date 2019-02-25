@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="welcome">THE Converter</string>
+    <string name="commence_converting">Commence Converting</string>
+    <string name="start">Start</string>
+    <string name="Confirm">confirm</string>
+
+    <string-array name="length_array">
+        <item>meters</item>
+        <item>inches</item>
+        <item>feet</item>
+        <item>yards</item>
+    </string-array>
+
+
+    <string-array name="weight_array">
+        <item>grams</item>
+        <item>ounces</item>
+        <item>pounds</item>
+        <item>tons</item>
+    </string-array>
+
+    <string-array name="volume_array">
+        <item>liters</item>
+        <item>pints</item>
+        <item>quarts</item>
+        <item>gallons</item>
+    </string-array>
+
+    <string-array name="measure_array">
+        <item>length</item>
+        <item>weight</item>
+        <item>volume</item>
+    </string-array>
+
+    <string name="number">Enter number to convert</string>
+    <string name="convert">Convert</string>
+    <string name="to">To</string>
+</resources>
+
+
